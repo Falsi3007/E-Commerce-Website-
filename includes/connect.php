@@ -4,5 +4,4 @@ if(!$con)
 {
     echo "connection sucessful";
 }
-
 ?>
